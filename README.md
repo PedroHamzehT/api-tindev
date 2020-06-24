@@ -2,6 +2,7 @@
 A project developed to learn the Nodejs with Express
 
 This project has the MongoDB as it database and Mongoose as it ODM
+<br />
 Here I'm using the api of the github
 
 ## How it works:
